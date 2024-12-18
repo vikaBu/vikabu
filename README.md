@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Vika 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikabu)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **vikaBu/vikabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

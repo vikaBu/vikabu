@@ -4,7 +4,7 @@ I am Vika
 
 
 # 💫 About Me:
-🛠️ I’m currently working on refining my Next.js and TypeScript skills<br>👯‍♂️ Always on the lookout for great technical meetups and knowledge-sharing sessions<br>🌱 I’m currently learning advanced performance optimizations in React and Next.js<br>💬 Ask me about chess openings (especially Queen’s Gambit and Sicilian Defense)<br>
+👯‍♂️ Always on the lookout for great technical meetups and knowledge-sharing sessions<br>🌱 I’m currently learning advanced performance optimizations in React and Next.js<br>💬 Ask me about chess openings (especially Queen’s Gambit and Sicilian Defense)<br>
 
 
 ## 🌐 Socials:

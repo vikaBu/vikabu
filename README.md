@@ -4,7 +4,7 @@ I am Vika
 
 
 # 💫 About Me:
-👯‍♂️ Always on the lookout for great technical meetups and knowledge-sharing sessions<br>🌱 I’m currently learning React and Next.jsin more depth, taste testing other languages like Java<br>💬 Ask me about chess openings (especially Queen’s Gambit and Sicilian Defense)<br>
+👯‍♂️ Always on the lookout for great technical meetups and knowledge-sharing sessions<br>🌱 I’m currently learning React and Next.js in more depth, taste testing other languages like Java <br>💬 Ask me about chess openings <br>
 
 
 ## 🌐 Socials:
